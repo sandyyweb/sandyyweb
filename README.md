@@ -133,17 +133,6 @@ AI sits inside my daily workflow. I use ChatGPT and Claude to plan, debug, docum
 
 ---
 
-<h2 align="center">◆ CONTRIBUTION SNAKE ◆</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandyyweb/sandyyweb/output/snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/sandyyweb/sandyyweb/output/snake.svg" />
-</picture>
-
-</div>
-
 ---
 
 <h2 align="center">◆ LET'S BUILD SOMETHING ◆</h2>

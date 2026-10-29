@@ -133,8 +133,6 @@ AI sits inside my daily workflow. I use ChatGPT and Claude to plan, debug, docum
 
 ---
 
----
-
 <h2 align="center">◆ LET'S BUILD SOMETHING ◆</h2>
 
 <div align="center">
